@@ -14,7 +14,7 @@ pipeline {
                  stage('Three') {
                 
                  steps {
-                       echo "Hello 3"
+                       echo "Hello 3 --> build completed Congrat!!!"
                  }
                 
               }
